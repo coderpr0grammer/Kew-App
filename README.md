@@ -47,6 +47,6 @@ We're thrilled to have **Paybilt API** onboard, making e-transfers a breeze. **P
 
 - **React**
 - **Vite**
-- **Paybilt API**
+- **Paybilt API (Pending)**
 - **Spotify API**
 - **Google OAuth**
