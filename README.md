@@ -33,3 +33,4 @@ We are looking to intergrate the **Paybilt API**, making e-transfers a breeze.
 <small>We have a legal team in place that actively monitors and enforces our intellectual property rights. Unauthorized copying, modification, or distribution of the Kew software may result in legal action.</small>
 
 <small>By using this software, you agree to comply with all terms and conditions set forth in the accompanying license agreement.</small>
+
