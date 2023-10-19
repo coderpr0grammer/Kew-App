@@ -1,8 +1,8 @@
 # 🎉 Kew - The Cooler way to Queue 🎉
 
-**The NEW way to allow **EVERYONE** to listen and party to **MUSIC** they **ACTUALLY VIBE TO**!!! 🎶
+The **new** way to allow ***everyone*** to listen and party to **music** they ***actually vibe to***! 🎶
 
-Ever had a long, exhausting day and just ready to let loose? Pumped for semi-formal or prom but the DJ just **DOESN'T DELIVER**? 🎧 Music is crucial for setting the mood and nobody wants to be stuck with classical tunes when there are so many bangers out there. Can't blame the DJ though, how are they supposed to know your taste? That’s where **Kew** steps in! No more waiting in line to request a song—do it via **Kew**. Want your song played sooner? Pay a *small fee* for priority queuing. Enjoy your night, your way, and discover what others are vibing to with insights into the upcoming playlist. 🎵
+Ever had a long, exhausting day and just ready to let loose? Pumped for semi-formal or prom but the DJ just ***doesn't deliver***? 🎧 Music is crucial for setting the mood and nobody wants to be stuck with classical tunes when there are so many bangers out there. Can't blame the DJ though, how are they supposed to know your taste? That’s where **Kew** steps in! No more waiting in line to request a song—do it via **Kew**. Want your song played sooner? Pay a *small fee* for priority queuing. Enjoy your night, your way, and discover what others are vibing to with insights into the upcoming playlist. 🎵
 
 
 
