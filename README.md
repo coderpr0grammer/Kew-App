@@ -18,7 +18,7 @@ We are looking to intergrate the **Paybilt API**, making e-transfers a breeze.
 
 ## 📚 Stack
 
-- **React** + **Vite**
+- **React** + **Vite** + Tailwind CSS
 - Firebase + Firestore
 - **Paybilt API (Pending)**
 - **Spotify API**
