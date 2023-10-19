@@ -1,4 +1,4 @@
-# 🎉 Kew - The Kewler way to Queue 🎉
+# 🎉 Kew - The Cooler way to Queue 🎉
 
 **NEW innovative idea** to allow **EVERYONE** to listen and party to **MUSIC** they **ACTUALLY VIBE TO**!!! 🎶
 
