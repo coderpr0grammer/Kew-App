@@ -32,13 +32,7 @@ We used React and Vite for the front end development and Firebase for our backen
 ## 🚀 What's next for Kew App
 Our next step for KEW would be to incorporate song suggestions that are based on the requests that partygoers made. Once the user requests a few songs, KEW will be able to generate similar songs for the user to consider. This feature will also be present on the DJ’s side as he will also have a list of recommendations that consider the genres and songs that have been requested.
 
-
-
-**NEW innovative idea** to allow **EVERYONE** to listen and party to **MUSIC** they **ACTUALLY VIBE TO**!!! 🎶
-
 Ever had a long, exhausting day and just ready to let loose? Pumped for semi-formal or prom but the DJ just **DOESN'T DELIVER**? 🎧 Music is crucial for setting the mood and nobody wants to be stuck with classical tunes when there are so many bangers out there. Can't blame the DJ though, how are they supposed to know your taste? That’s where **Kew** steps in! No more waiting in line to request a song—do it via **Kew**. Want your song played sooner? Pay a *small fee* for priority queuing. Enjoy your night, your way, and discover what others are vibing to with insights into the upcoming playlist. 🎵
-
-
 
 Instead of wasting time and energy walking to the DJ booth, simply **queue up** your song requests on **Kew**. Your song gets sent straight to the DJ’s screen—from your phone to the dance floor. Stay in the know with upcoming tracks and discover new tunes you'll love. The platform even prioritizes highly requested songs to keep the majority grooving. 🕺💃 Eager to hear your song sooner? **GREAT NEWS**: with **Paybilt**, you can pay between **$3-$5** to bump your song to the top. Not only does this tip the DJ, it also encourages them to mix things up. And if you're with that special someone when the mood for a slow dance hits, pay a small fee for an unforgettable experience. 🌌
 
