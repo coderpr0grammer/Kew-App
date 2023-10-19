@@ -25,10 +25,11 @@ We are looking to intergrate the **Paybilt API**, making e-transfers a breeze.
 - **Google OAuth**
 
 
+
 ### Disclaimer
 
-The Kew software is proprietary and protected under intellectual property laws. It is not an open source project and is not available for unauthorized use, modification, or distribution. Copying or redistributing any part of this software without explicit authorization is strictly prohibited.
+<small>The Kew software is proprietary and protected under intellectual property laws. It is not an open source project and is not available for unauthorized use, modification, or distribution. Copying or redistributing any part of this software without explicit authorization is strictly prohibited.</small>
 
-We have a legal team in place that actively monitors and enforces our intellectual property rights. Unauthorized copying, modification, or distribution of the Kew software may result in legal action.
+<small>We have a legal team in place that actively monitors and enforces our intellectual property rights. Unauthorized copying, modification, or distribution of the Kew software may result in legal action.</small>
 
-By using this software, you agree to comply with all terms and conditions set forth in the accompanying license agreement.
+<small>By using this software, you agree to comply with all terms and conditions set forth in the accompanying license agreement.</small>
