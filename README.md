@@ -40,9 +40,9 @@ Instead of wasting time and energy walking to the DJ booth, simply **queue up** 
 
 For this project, we embraced **React.js** for front-end development. With **Vite**, we built a snappy and optimized web application. We also integrated the **Spotify API** for a vast range of music recommendations. 🎤
 
-## 💸 Payment Processing with Paybilt
+<!-- ## 💸 Payment Processing with Paybilt
 
-We're thrilled to have **Paybilt API** onboard, making e-transfers a breeze. **Paybilt** not only simplifies transactions but also aligns perfectly with our audience—students who prefer a hassle-free payment method without the need to enter card details for small payments. A big shoutout to **Paybilt** for making our project more user-friendly! 🥳
+We're thrilled to have **Paybilt API** onboard, making e-transfers a breeze. **Paybilt** not only simplifies transactions but also aligns perfectly with our audience—students who prefer a hassle-free payment method without the need to enter card details for small payments. A big shoutout to **Paybilt** for making our project more user-friendly! 🥳 -->
 
 ## 📚 Stack
 
