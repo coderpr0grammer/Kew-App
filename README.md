@@ -29,8 +29,7 @@ We used React and Vite for the front end development and Firebase for our backen
 <!--## 📚 What we learned-->
 <!--**Teamwork:** Most of the team is not used to creating such a robust project at a team level because usually we have pursued such projects individually. It was difficult at first as we tended to go into our own bubble and work independently. However, we quickly realized that the lack of communication was putting us in a position where we were not on the same page. We learned that in order to create this project together, we would need to constantly ask questions from one another and update each other. We were able to learn more about each other and find ways to combine our skill sets to create our project.-->
 
-## 🚀 What's next for Kew App
-Our next step for KEW would be to incorporate song suggestions that are based on the requests that partygoers made. Once the user requests a few songs, KEW will be able to generate similar songs for the user to consider. This feature will also be present on the DJ’s side as he will also have a list of recommendations that consider the genres and songs that have been requested.
+## Kue Solves the Problem
 
 Ever had a long, exhausting day and just ready to let loose? Pumped for semi-formal or prom but the DJ just **DOESN'T DELIVER**? 🎧 Music is crucial for setting the mood and nobody wants to be stuck with classical tunes when there are so many bangers out there. Can't blame the DJ though, how are they supposed to know your taste? That’s where **Kew** steps in! No more waiting in line to request a song—do it via **Kew**. Want your song played sooner? Pay a *small fee* for priority queuing. Enjoy your night, your way, and discover what others are vibing to with insights into the upcoming playlist. 🎵
 
