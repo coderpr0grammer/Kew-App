@@ -1,10 +1,10 @@
 # 🎉 Kew - The Cooler way to Queue 🎉
 
-VISIT NOW ➡️ [KEWPARTY.COM](https://kewparty.com/)
+ ## VISIT NOW ➡️ [KEWPARTY.COM](https://kewparty.com/)
 
-PARTY GOERS ➡️ [JOINKEW.COM](https://joinkew.com/)
+## PARTY GOERS ➡️ [JOINKEW.COM](https://joinkew.com/)
 
-DJ's ➡️ [JOINKEW.COM/DJ](https://joinkew.com/dj)
+## DJ's ➡️ [JOINKEW.COM/DJ](https://joinkew.com/dj)
 
 
 
