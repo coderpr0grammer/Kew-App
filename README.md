@@ -20,15 +20,13 @@ Instead of wasting time and energy walking to the DJ booth, simply **queue up** 
 
 For this project, we embraced **React.js** for front-end development. With **Vite**, we built a snappy and optimized web application. We also integrated the **Spotify API** for a vast range of music recommendations. 🎤
 
-## 💸 Payment Processing with Paybilt
-We are looking to intergrate the **Paybilt API**, making e-transfers a breeze.
-<!-- We're thrilled to have **Paybilt API** onboard, making e-transfers a breeze. **Paybilt** not only simplifies transactions but also aligns perfectly with our audience—students who prefer a hassle-free payment method without the need to enter card details for small payments. A big shoutout to **Paybilt** for making our project more user-friendly! 🥳 -->
-
+## 💸 Payment Processing with Stripe
+We make it super easy to send Kew Tips to the DJ, providing one click options including Apple Pay, Google Pay and Link (by Stripe) One Click Checkout.
 ## 📚 Stack
 
 - **React** + **Vite** + Tailwind CSS
 - Firebase + Firestore
-- **Paybilt API (Pending)**
+- **Stripe API**
 - **Spotify API**
 - **Google OAuth**
 
