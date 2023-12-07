@@ -2,7 +2,7 @@
 
  ## VISIT NOW ➡️ [KEWPARTY.COM](https://kewparty.com/)
 
-## PARTY GOERS ➡️ [JOINKEW.COM](https://joinkew.com/)
+## PARTY GUESTS ➡️ [JOINKEW.COM](https://joinkew.com/)
 
 ## DJ's ➡️ [JOINKEW.COM/DJ](https://joinkew.com/dj)
 
@@ -10,11 +10,24 @@
 
 The **new** way to allow ***everyone*** to listen and party to **music** they ***actually vibe to***! 🎶
 
-Ever had a long, exhausting day and just ready to let loose? Pumped for semi-formal or prom but the DJ just ***doesn't deliver***? 🎧 Music is crucial for setting the mood and nobody wants to be stuck with classical tunes when there are so many bangers out there. Can't blame the DJ though, how are they supposed to know your taste? That’s where **Kew** steps in! No more waiting in line to request a song—do it via **Kew**. Want your song played sooner? Pay a *small fee* for priority queuing. Enjoy your night, your way, and discover what others are vibing to with insights into the upcoming playlist. 🎵
+# 🎉 Kew - Song requests made easy. 🎉
 
+Kew is a software that makes it super easy for DJs to receive song requests at parties and for partygoers to send them! Simply scan the QR code search for a song to add the request to the queue. The DJ will receive all the song requests in real-time, sorted by popular request.
 
+🎧 Pumped for semi-formal or prom but the DJ just ***doesn't deliver***?  
+Music is crucial for setting the mood. Nobody wants to be stuck with boring tunes when there are so many bangers out there. 
 
-Instead of wasting time and energy walking to the DJ booth, simply **queue up** your song requests on **Kew**. Your song gets sent straight to the DJ’s screen—from your phone to the dance floor. Stay in the know with upcoming tracks and discover new tunes you'll love. The platform even prioritizes highly requested songs to keep the majority grooving. 🕺💃 Eager to hear your song sooner? **GREAT NEWS**: with **Paybilt**, you can pay between **$3-$5** to bump your song to the top. Not only does this tip the DJ, it also encourages them to mix things up. And if you're with that special someone when the mood for a slow dance hits, pay a small fee for an unforgettable experience. 🌌
+Can't blame the DJ though, how are they supposed to know your taste? 
+
+That’s where **Kew** steps in! No more waiting in line to request a song — do it via **Kew**. 
+
+Want your song played sooner? Pay the DJ a tip to get your song *boosted* to the top, OR you can get a shoutout too! Enjoy your night your way, and see what others are vibing to by checking out the next songs in the Kew. 🎵
+
+Instead of wasting time waiting in line at the DJ booth, simply **queue** your song requests on **Kew**. Your song request instantly gets sent straight to the DJ’s screen. 
+The platform automatically prioritizes the most highly requested songs to keep the majority grooving. 
+
+Don't like the songs playing and want to hear your song sooner?  
+**GREAT NEWS**: with **Kew Tips**, you can send the DJ a tip to bump your song to the top. And if you're with that special someone when the mood for a slow dance hits, pay a small fee for an unforgettable experience. 🌌
 
 ## 🛠️ The Process
 
