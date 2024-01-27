@@ -1,16 +1,19 @@
-# 🎉 Kew - The Cooler way to Queue 🎉
+# 🎉 KEW - The Cooler way to Queue 🎉
 
- ## VISIT NOW ➡️ [KEWPARTY.COM](https://kewparty.com/)
+## VISIT NOW ➡️ [KEWPARTY.COM](https://kewparty.com/)
 
 ## PARTY GUESTS ➡️ [JOINKEW.COM](https://joinkew.com/)
 
 ## DJ's ➡️ [JOINKEW.COM/DJ](https://joinkew.com/dj)
 
+## DEMO VIDEO ➡️ [JOINKEW.COM/DJ](https://joinkew.com/dj)
+
+
 
 
 The **new** way to allow ***everyone*** to listen and party to **music** they ***actually vibe to***! 🎶
 
-# 🎉 Kew - Song requests made easy. 🎉
+# 🎉 KEW - Song requests made easy. 🎉
 
 Kew is a software that makes it super easy for DJs to receive song requests at parties and for partygoers to send them! Simply scan the QR code search for a song to add the request to the queue. The DJ will receive all the song requests in real-time, sorted by popular request.
 
@@ -45,7 +48,7 @@ We make it super easy to send Kew Tips to the DJ, providing one click options in
 
 
 
-### Disclaimer
+### Legal
 
 <small>The Kew software is proprietary and protected under intellectual property laws. It is not an open source project and is not available for unauthorized use, modification, or distribution. Copying or redistributing any part of this software without explicit authorization is strictly prohibited.</small>
 
