@@ -2,11 +2,9 @@
 
 ## VISIT NOW ➡️ [KEWPARTY.COM](https://kewparty.com/)
 
-## PARTY GUESTS ➡️ [JOINKEW.COM](https://joinkew.com/)
+## DJ's ➡️ [KEWPARTY.COM/DJ](https://KEWPARTY.COM/dj)
 
-## DJ's ➡️ [JOINKEW.COM/DJ](https://joinkew.com/dj)
 
-## DEMO VIDEO ➡️ [JOINKEW.COM/DJ](https://joinkew.com/dj)
 
 
 
